@@ -1,0 +1,58 @@
+h1{font-size: 35px;
+font-weight: bold;}
+
+#AGE{font-size: 30px;}
+
+img{float:left;}
+
+h2 {color :blue;
+font-size: 25px;
+font-family: "Asimovian", sans-serif;
+}
+
+ul {color :black;
+    background-color: beige;
+font-size: 20px;
+
+}
+
+.one{ color : red;}
+
+*{background-color: #c0f0fb;}
+
+.EDUCATION{color:#323ac9;
+    background-color: yellow;}
+
+.EDU1{font-size: 20px;}    
+
+.WORK{background-color : orangered;
+    
+}
+
+.OTHER{background-color: rgb(216, 75, 75);
+
+}
+
+.LANGUAGES{background-color: #788e54;}
+
+#CONTACT{background-color: #FF6082;}
+
+.WORKUL{COLOR: #1B365D;
+font-family: "Redaction 50", serif;
+}
+
+.OTHERUL{COLOR:#790D16;
+font-family: "Agrave Pro", cursive;
+}
+
+#LANGUAGEUL{COLOR:#792CA2;
+font-family: "Playwrite AU SA Guides", cursive;
+}
+
+.CONTACTUL{COLOR:#4F252E;
+font-family: "Exile", system-ui;
+}
+
+.box{background-color: #1B365D;
+height:5px;
+width:200px}
